@@ -1,55 +1,137 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"qual personagem da Akatsuki você seria?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Escolha uma palavra que melhor descreva sua personalidade:",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Misterioso", "alias": "D"},
+        {"id": 2, "name":"Leal", "alias":"B"},
+        {"id": 3, "name":"Sádico", "alias":"G"},
+        {"id": 4, "name":"Artístico", "alias":"E"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Em uma batalha, qual habilidade você valorizaria mais?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Ninjutsu (técnicas elementares)", "alias":"A"},
+        {"id": 2, "name":"Genjutsu (ilusões)", "alias":"C"},
+        {"id": 3, "name":"Taijutsu (combate corpo a corpo)", "alias":"G"},
+        {"id": 3, "name":"Habilidades explosivas", "alias":"E"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Qual é a sua abordagem para alcançar seus objetivos?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Engenhoso e criativo", "alias":"E"},
+        {"id": 2, "name":"Caos e destruição", "alias":"G"},
+        {"id": 3, "name":"Leal à causa, não importa o custo", "alias":"D"},
+        {"id": 4, "name":"Estratégica e calculada", "alias":"C"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Qual é sua afinidade elemental preferida?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Fogo", "alias":"C"},
+        {"id": 2, "name":"Terra", "alias":"A"},
+        {"id": 3, "name":"Vento", "alias":"E"},
+        {"id": 4, "name":"Água", "alias":"D"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Como você lidaria com um traidor na organização?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Lealdade inquestionável", "alias":"B"},
+        {"id": 2, "name":"Caos e destruição", "alias":"G"},
+        {"id": 3, "name":"Habilidade em rastrear e capturar", "alias":"H"},
+        {"id": 4, "name":"Manipulação e traição sutil", "alias":"C"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Escolha uma cor que represente sua personalidade:",
+      "options":[
+        {"id": 1, "name":"Roxo", "alias":"C"},
+        {"id": 2, "name":"Azul", "alias":"D"},
+        {"id": 3, "name":"Vermelho", "alias":"G"},
+        {"id": 4, "name":"Preto", "alias":"E"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Qual seria sua estratégia em uma missão furtiva?",
+      "options":[
+        {"id": 1, "name":"Causar distrações explosivas", "alias":"E"},
+        {"id": 2, "name":"Usar habilidades ilusórias para confundir o inimigo", "alias":"C"},
+        {"id": 3, "name":"Manter-se escondido e observar", "alias":"H"},
+        {"id": 4, "name":"Usar disfarces e técnicas de camuflagem", "alias":"I"}
+      ]
+    },
+    {
+      "id":8,
+      "question": "O que é mais importante para você?",
+      "options":[
+        {"id": 1, "name":"Diversão e caos", "alias":"G"},
+        {"id": 2, "name":"Poder e conhecimento", "alias":"C"},
+        {"id": 3, "name":"Lealdade e amizade", "alias":"B"},
+        {"id": 4, "name":"Realização artística e reconhecimento", "alias":"E"}
+      ]
+    },
+    {
+      "id":9,
+      "question": "O que você valoriza mais em um aliado?",
+      "options":[
+        {"id": 1, "name":"Inteligência e estratégia", "alias":"C"},
+        {"id": 2, "name":"Lealdade e confiança", "alias":"B"},
+        {"id": 3, "name":"Poder bruto e ferocidade", "alias":"D"},
+        {"id": 4, "name":"Habilidade única e criatividade", "alias":"E"}
+      ]
+    },
+    {
+      "id":10,
+      "question": "Como você reage diante de desafios inesperados?",
+      "options":[
+        {"id": 1, "name":"Encaro-os com entusiasmo, buscando o confronto direto", "alias":"G"},
+        {"id": 2, "name":"Uso minha criatividade para encontrar soluções únicas", "alias":"E"},
+        {"id": 3, "name":"Confio na minha intuição e adapto-me rapidamente", "alias":"H"},
+        {"id": 4, "name":"Mantenho a calma e busco soluções lógicas", "alias":"C"}
+      ]
+    },
+    {
+      "id":11,
+      "question": "Qual é a sua visão sobre a paz?",
+      "options":[
+        {"id": 1, "name":"Alcançada através da manipulação e controle", "alias":"A"},
+        {"id": 2, "name":"Obtida por meio da lealdade e cooperação", "alias":"B"},
+        {"id": 3, "name":"Não acredito na paz, apenas no caos", "alias":"G"},
+        {"id": 4, "name":"Alcançada quando as pessoas admiram minha arte", "alias":"E"}
+      ]
+    },
+    {
+      "id":12,
+      "question": "Escolha um animal que represente sua personalidade:",
+      "options":[
+        {"id": 1, "name":"Corvo", "alias":"C"},
+        {"id": 2, "name":"Tubarão", "alias":"D"},
+        {"id": 3, "name":"Serpente", "alias":"E"},
+        {"id": 4, "name":"Alcançada quando as pessoas admiram minha arte", "alias":"E"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Certamente você se parece com o personagem Nagato!",
+    "B": "Certamente você se parece com o personagem Konan!",
+    "C": "Certamente você se parece com o personagem Itachi!",
+    "D": "Certamente você se parece com o personagem Kisame!",
+    "E": "Certamente você se parece com o personagem Deidara!",
+    "F": "Certamente você se parece com o personagem Sasori!",
+    "G": "Certamente você se parece com o personagem Hidan!",
+    "H": "Certamente você se parece com o personagem Kakuzu!",
+    "I": "Certamente você se parece com o personagem Zetsu!",
+    "J": "Certamente você se parece com o personagem Orochimaru"
   }
 }
