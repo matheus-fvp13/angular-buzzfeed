@@ -5,7 +5,7 @@ Neste projeto as perguntas são baseadas no universo do anime Naruto, em especia
 
 Você pode acessar o projeto no seguinte link: [https://angular-buzzfeed-gamma.vercel.app/](https://angular-buzzfeed-gamma.vercel.app/)
 
-## Tecnologias utilizadas
+# Tecnologias utilizadas
 - HTML5, CSS3
 - TypeScript
 - Angular 17
