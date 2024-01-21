@@ -3,7 +3,7 @@
 Este projeto tem por objetivo desenvolver um clone do site BuzzFeed, no qual o usuario será exposto a uma serie de perguntas sobre um determinado tema e ao final de todas as perguntas ele é associado a algo relacionado ao tema.
 Neste projeto as perguntas são baseadas no universo do anime Naruto, em especial sobre os personagens da Akatsuki, uma organização ficticia dentro do anime. Ao responder as perguntas a aplicação define qual membro da Akatsuki mais se aproxima do usuário.
 
-Você pode acessar o projeto no seguinte link: 
+Você pode acessar o projeto no seguinte link: [https://angular-buzzfeed-gamma.vercel.app/](https://angular-buzzfeed-gamma.vercel.app/)
 
 ## Tecnologias utilizadas
 - HTML5, CSS3
